@@ -14,6 +14,7 @@
 | [0011-container-with-most-water](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0392-is-subsequence](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0292-nim-game) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
