@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
