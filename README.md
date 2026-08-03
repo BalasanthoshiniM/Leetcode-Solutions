@@ -48,6 +48,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Dynamic Programming
@@ -61,6 +62,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1331-rank-transform-of-an-array](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Number Theory
 |  |
@@ -74,4 +76,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0394-decode-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
