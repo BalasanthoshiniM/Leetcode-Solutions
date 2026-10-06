@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1331-rank-transform-of-an-array](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2951-find-the-peaks](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/2951-find-the-peaks) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0278-first-bad-version](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BalasanthoshiniM/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
